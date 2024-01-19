@@ -1,7 +1,7 @@
 CS210 Final Project 
 Berke Basri CAN 30687
 ## Overview
-This project aims to analyze the relationship between myexam dates and daily step counts over the last three months. The hypothesis is that step counts tend to decrease on exam days due to increased study time and reduced physical activity.
+This project aims to analyze the relationship between my exam dates and daily step counts over the last three months. The hypothesis is that step counts tend to decrease on exam days due to increased study time and reduced physical activity. Which is bad for our health.
 
 ## Data
 - The daily step count data was collected using a health application.
