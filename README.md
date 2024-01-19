@@ -4,8 +4,8 @@ Berke Basri CAN 30687
 This project aims to analyze the relationship between myexam dates and daily step counts over the last three months. The hypothesis is that step counts tend to decrease on exam days due to increased study time and reduced physical activity.
 
 ## Data
-- The daily step count data was collected using a step counter device or application.
-- Exam dates were collected using a google developer API from my calender
+- The daily step count data was collected using a health application.
+- Exam dates were collected using google developer API from my calender
 ## Methodology
 1. Data Preparation:
    - Cleaned and formatted the data.
@@ -14,6 +14,7 @@ This project aims to analyze the relationship between myexam dates and daily ste
 
 2. Data Analysis:
    - Compared average step counts on exam days and non-exam days.
+   - Conducted a p-value to assess the statistical significance of differences.
    - Conducted a t-test to assess the statistical significance of differences.
 
 3. Data Visualization:
